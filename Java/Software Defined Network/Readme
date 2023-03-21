@@ -1,0 +1,3 @@
+•	Implementation of 2 control applications 
+o	Layer-3 routing application that installs SDN switches to forward traffic to shortest route in network
+o	Distributed load balancer to redirect new TCP connections to hosts
