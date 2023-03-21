@@ -1,0 +1,4 @@
+0000000000000000000000000000000000000000 7cfd3fd696d88c886ea35dbb5d681a521f6e8f6c himanshusagar <himanshusagar@protonmail.com> 1649371577 -0500	branch: Created from refs/remotes/origin/forP4
+7cfd3fd696d88c886ea35dbb5d681a521f6e8f6c 71ce8c0d5bce1acbf066b4c1949d4075d0716c54 himanshusagar <himanshusagar@protonmail.com> 1649436617 -0500	commit: vm.c
+71ce8c0d5bce1acbf066b4c1949d4075d0716c54 e07f090165b68adef4ac92e7c027bc677cf67e89 himanshusagar <himanshusagar@protonmail.com> 1649450130 -0500	commit: Included more code
+e07f090165b68adef4ac92e7c027bc677cf67e89 000a879cd0847bb4f5b5c0b60d25f78a6fb55049 himanshusagar <himanshusagar@protonmail.com> 1650259534 -0500	commit: Added buffer line
